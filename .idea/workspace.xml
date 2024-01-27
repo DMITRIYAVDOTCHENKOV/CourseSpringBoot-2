@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар 2" />
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар 2">
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/src/main/java/org/example/lesson_4task2/Lesson4Task2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/src/main/java/org/example/lesson_4task2/contrloller/RandomController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/src/main/resources/templates/random.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4Task2/src/test/java/org/example/lesson_4task2/Lesson4Task2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/src/main/java/com/example/spring_4lesson/Spring4lessonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/src/main/java/com/example/spring_4lesson/controller/AboutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/src/main/resources/static/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/spring_4lesson/src/test/java/com/example/spring_4lesson/Spring4lessonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/java/com/example/task3/Task3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/java/com/example/task3/controllers/ProductsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/java/com/example/task3/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/java/com/example/task3/services/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/main/resources/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/task3/task3/src/test/java/com/example/task3/Task3ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/human_friends.g9TRfA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/usertable.4_ZbFQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +75,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$/.." value="lesson3hw" />
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -52,10 +102,28 @@
               </option>
               <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
             </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="HwSprinhg3" />
+                    <option name="lastUsedInstant" value="1705752169" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="lesson3hw" />
+                    <option name="lastUsedInstant" value="1705752168" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
+            </RecentBranchesForRepo>
           </list>
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Random.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -100,9 +168,13 @@
     "Spring Boot.DemoApplication (1).executor": "Run",
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.HomeTaskApplication.executor": "Run",
+    "Spring Boot.Lesson4Task2Application.executor": "Run",
     "Spring Boot.Seminar3RestApplication.executor": "Run",
+    "Spring Boot.Spring4lessonApplication.executor": "Run",
+    "Spring Boot.Task3Application.executor": "Run",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "lesson3hw",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot",
     "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
@@ -115,7 +187,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "database.query.execution",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -143,26 +215,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HomeTaskApplication">
+  <component name="RunManager" selected="Spring Boot.Task3Application">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Exam4Sem2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,6 +289,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lesson4Task2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lesson_4Task2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.lesson_4task2.Lesson4Task2Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson_4task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Seminar3RestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="seminar3REST" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.seminar3REST.Seminar3RestApplication" />
@@ -237,13 +309,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring4lessonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring_4lesson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring_4lesson.Spring4lessonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="task3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task3.Task3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.Lesson4Task2Application" />
         <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.seminar_2.seminar_2_1.config.Main" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +354,11 @@
       <workItem from="1705688379938" duration="1345000" />
       <workItem from="1705690187758" duration="5281000" />
       <workItem from="1705739996639" duration="164000" />
-      <workItem from="1705740487729" duration="11174000" />
+      <workItem from="1705740487729" duration="12925000" />
+      <workItem from="1705753441133" duration="2564000" />
+      <workItem from="1705756018704" duration="1795000" />
+      <workItem from="1705780617387" duration="3283000" />
+      <workItem from="1705826601485" duration="1714000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
       <option name="closed" value="true" />
@@ -305,7 +395,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HwSprinhg3" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

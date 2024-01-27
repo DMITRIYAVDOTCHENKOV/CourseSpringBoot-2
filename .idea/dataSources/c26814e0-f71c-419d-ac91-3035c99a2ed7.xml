@@ -169,46 +169,10 @@
     <schema id="162" parent="2" name="INFORMATION_SCHEMA"/>
     <schema id="163" parent="2" name="PUBLIC">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-01-20.11:10:42</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-01-27.09:55:51</LastIntrospectionLocalTimestamp>
     </schema>
     <user id="164" parent="2" name="SA">
       <Admin>1</Admin>
     </user>
-    <table id="165" parent="163" name="user"/>
-    <column id="166" parent="165" name="ID">
-      <ColumnKind>generated-stored</ColumnKind>
-      <DasType>INTEGER|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>1</Position>
-      <SequenceInline>1</SequenceInline>
-      <SequenceDasType>INTEGER|0s</SequenceDasType>
-      <SequenceSequenceIdentity>1(1)</SequenceSequenceIdentity>
-      <SequenceStartValue>1</SequenceStartValue>
-    </column>
-    <column id="167" parent="165" name="NAME">
-      <DasType>CHARACTER VARYING(50)|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>2</Position>
-    </column>
-    <column id="168" parent="165" name="AGE">
-      <DasType>INTEGER|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>3</Position>
-    </column>
-    <column id="169" parent="165" name="EMAIL">
-      <DasType>CHARACTER VARYING(50)|0s</DasType>
-      <NotNull>1</NotNull>
-      <Position>4</Position>
-    </column>
-    <index id="170" parent="165" name="PRIMARY_KEY_3">
-      <ColNames>ID</ColNames>
-      <NameSurrogate>1</NameSurrogate>
-      <Unique>1</Unique>
-    </index>
-    <key id="171" parent="165" name="CONSTRAINT_3">
-      <ColNames>ID</ColNames>
-      <NameSurrogate>1</NameSurrogate>
-      <Primary>1</Primary>
-    </key>
   </database-model>
 </dataSource>
