@@ -4,65 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="Домашняя работа 4 семинар">
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/HomeWorksSeminar5Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/controllers/TaskController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/dto/DtoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/dto/TaskDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/models/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/models/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/repositories/TaskRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/services/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/java/org/example/homeworksseminar5/utils/TaskMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/resources/templates/create_task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/resources/templates/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeWorksSeminar5/src/main/resources/templates/update_task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/java/org/example/seminar5task2/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/java/org/example/seminar5task2/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/java/org/example/seminar5task2/repository/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/java/org/example/seminar5task2/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/seminar5Task2/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/Seminar5task1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/controllers/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/dto/TransferRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/exeption/AccountNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/repository/AccountRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/java/org/example/seminar5task1/services/TransferService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/main/resources/shema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminar5task1/src/test/java/org/example/seminar5task1/Seminar5task1ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/078110b5-e5b1-42c0-b553-ebbc60324b33/storage_v2/_src_/database/TESTDB.kGhKkw/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/human_friends.g9TRfA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92969962-e10d-40b0-9645-6e3bae9acd3a/storage_v2/_src_/schema/usertable.4_ZbFQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c26814e0-f71c-419d-ac91-3035c99a2ed7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c26814e0-f71c-419d-ac91-3035c99a2ed7.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c26814e0-f71c-419d-ac91-3035c99a2ed7/storage_v2/_src_/database/TESTDB.kGhKkw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c26814e0-f71c-419d-ac91-3035c99a2ed7/storage_v2/_src_/database/TESTDB.kGhKkw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -397,7 +339,7 @@
       <workItem from="1705780617387" duration="3283000" />
       <workItem from="1705826601485" duration="1714000" />
       <workItem from="1706359458598" duration="2488000" />
-      <workItem from="1706366339802" duration="5765000" />
+      <workItem from="1706366339802" duration="6996000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
       <option name="closed" value="true" />
@@ -431,7 +373,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706349701034</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="семинар5">
+      <option name="closed" value="true" />
+      <created>1706373100818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706373100818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +414,8 @@
     <MESSAGE value="Домашняя работа по 1 семинару" />
     <MESSAGE value="семинар 2" />
     <MESSAGE value="Домашняя работа 4 семинар" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашняя работа 4 семинар" />
+    <MESSAGE value="семинар5" />
+    <option name="LAST_COMMIT_MESSAGE" value="семинар5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
