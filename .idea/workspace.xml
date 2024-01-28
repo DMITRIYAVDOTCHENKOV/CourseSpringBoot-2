@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар5" />
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар5">
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/java/org/example/hwseminar5my/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/java/org/example/hwseminar5my/entity/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/java/org/example/hwseminar5my/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/java/org/example/hwseminar5my/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/java/org/example/hwseminar5my/service/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/resources/templates/notes-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/resources/templates/notes-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/main/resources/templates/notes-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HWseminar5MY/src/test/java/org/example/hwseminar5my/HWseminar5MyApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/java/org/example/hw5spring/controller/NoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/java/org/example/hw5spring/entity/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/java/org/example/hw5spring/repository/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/java/org/example/hw5spring/service/NoteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/java/org/example/hw5spring/service/NoteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/resources/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/resources/templates/notes-create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/resources/templates/notes-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5spring/src/main/resources/templates/notes-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/HWseminar5MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CourseSpringBoot-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CourseSpringBoot-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +48,8 @@
       <list>
         <option value="HTML File" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -27,7 +60,7 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$/.." value="lesson3hw" />
-        <entry key="$PROJECT_DIR$" value="lesson4spring" />
+        <entry key="$PROJECT_DIR$" value="seminar5hw" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +91,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="springhw4" />
-                    <option name="lastUsedInstant" value="1706349661" />
+                    <option name="lastUsedInstant" value="1706426628" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -123,6 +156,7 @@
     "Spring Boot.DemoApplication.executor": "Run",
     "Spring Boot.HomeTaskApplication.executor": "Run",
     "Spring Boot.HomeWorksSeminar5Application.executor": "Run",
+    "Spring Boot.Hw5springApplication.executor": "Run",
     "Spring Boot.Lesson4Task2Application.executor": "Run",
     "Spring Boot.Seminar3RestApplication.executor": "Run",
     "Spring Boot.Seminar5Task2Application.executor": "Run",
@@ -133,7 +167,7 @@
     "git-widget-placeholder": "springhw4",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot-master/homeWorksSeminar5/src/main/resources/templates",
+    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot-master/hw5spring/src/main/resources",
     "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -180,7 +214,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HomeWorksSeminar5Application">
+  <component name="RunManager" selected="Spring Boot.Hw5springApplication">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="demo" />
@@ -254,6 +288,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hw5springApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hw5spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.hw5spring.Hw5springApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson4Task2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="lesson_4Task2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.lesson_4task2.Lesson4Task2Application" />
@@ -304,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.HomeWorksSeminar5Application" />
         <item itemvalue="Spring Boot.Lesson4Task2Application" />
-        <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Spring Boot.HomeWorksSeminar5Application" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +439,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HwSprinhg3" />
+                        <option value="springhw4" />
                       </list>
                     </value>
                   </entry>

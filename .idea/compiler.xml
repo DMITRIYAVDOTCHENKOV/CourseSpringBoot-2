@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="homeWorksSeminar5" />
+        <module name="hw5spring" />
         <module name="demo (1)" />
         <module name="Exam2Sem2" />
         <module name="seminar5Task2" />
@@ -32,11 +33,12 @@
       <module name="HomeTask" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />
-      <module name="homeWorksSeminar5" options="-parameters" />
+      <module name="homeWorksSeminar5" options="" />
+      <module name="hw5spring" options="-parameters" />
       <module name="lesson_4Task2" options="-parameters" />
       <module name="seminar3REST" options="-parameters" />
       <module name="seminar5Task2" options="-parameters" />
-      <module name="seminar5task1" options="-parameters" />
+      <module name="seminar5task1" options="" />
       <module name="spring_4lesson" options="-parameters" />
       <module name="task3" options="-parameters" />
     </option>
