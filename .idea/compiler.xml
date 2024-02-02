@@ -9,9 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="homeWorksSeminar5" />
         <module name="hw5spring" />
+        <module name="spring_security_demo" />
         <module name="demo (1)" />
+        <module name="lekciya7" />
         <module name="Exam2Sem2" />
         <module name="seminar5Task2" />
+        <module name="SpringBoot3.2.0" />
         <module name="HomeTask" />
         <module name="seminar5task1" />
         <module name="demo" />
@@ -31,15 +34,18 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="HomeTask" options="-parameters" />
+      <module name="SpringBoot3.2.0" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo (1)" options="-parameters" />
-      <module name="homeWorksSeminar5" options="" />
+      <module name="homeWorksSeminar5" options="-parameters" />
       <module name="hw5spring" options="-parameters" />
+      <module name="lekciya7" options="-parameters" />
       <module name="lesson_4Task2" options="-parameters" />
       <module name="seminar3REST" options="-parameters" />
       <module name="seminar5Task2" options="-parameters" />
-      <module name="seminar5task1" options="" />
+      <module name="seminar5task1" options="-parameters" />
       <module name="spring_4lesson" options="-parameters" />
+      <module name="spring_security_demo" options="-parameters" />
       <module name="task3" options="-parameters" />
     </option>
   </component>
