@@ -3,8 +3,10 @@ package com.example.hw_lesson4.servicec;
 
 
 
+import com.example.hw_lesson4.aspect.TrackUserAction;
 import com.example.hw_lesson4.model.Employee;
 import com.example.hw_lesson4.repository.EmployeeRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -19,9 +21,11 @@ import java.util.Optional;
  * Реализация сервиса для управления сотрудниками
  */
 @Service
+
 public class EmployeeServiceImpl implements EmployeeService {
 
     @Autowired
+
     private EmployeeRepository employeeRepository;
 
     /**
@@ -30,6 +34,7 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @return Список всех сотрудников
      */
     @Override
+    @TrackUserAction("Get all employees")
     public List<Employee> getAllEmployees() {
         return employeeRepository.findAll();
     }
@@ -40,6 +45,7 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @param employee Сущность сотрудника для сохранения
      */
     @Override
+    @TrackUserAction("Save employee")
     public void saveEmployee(Employee employee) {
         this.employeeRepository.save(employee);
     }
@@ -51,6 +57,7 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @return Сущность сотрудника
      */
     @Override
+
     public Employee getEmployeeById(long id) {
         Optional<Employee> optional = employeeRepository.findById(id);
         Employee employee = null;
@@ -68,10 +75,10 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @param id Идентификатор сотрудника
      */
     @Override
+    @TrackUserAction("Delete employee by id")
     public void deleteEmployeeById(long id) {
         this.employeeRepository.deleteById(id);
     }
-
     /**
      * Поиск сотрудников с пагинацией и сортировкой
      *
@@ -82,6 +89,7 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @return Страница с отфильтрованным списком сотрудников
      */
     @Override
+
     public Page<Employee> findPaginated(int pageNo, int pageSize, String sortField, String sortDirection) {
         Sort sort = sortDirection.equalsIgnoreCase(Sort.Direction.ASC.name()) ? Sort.by(sortField).ascending() :
                 Sort.by(sortField).descending();
@@ -90,3 +98,4 @@ public class EmployeeServiceImpl implements EmployeeService {
         return this.employeeRepository.findAll(pageable);
     }
 }
+

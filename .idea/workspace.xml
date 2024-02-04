@@ -4,23 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар7hw">
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/main/java/org/example/hwseminar7/AccessControlApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/main/java/org/example/hwseminar7/HwSeminar7Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/main/java/org/example/hwseminar7/ontroler/ResourceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HwSeminar7/src/test/java/org/example/hwseminar7/HwSeminar7ApplicationTests.java" afterDir="false" />
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар7 домашняя работа">
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/aspects/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/aspects/ToLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/configuration/ProjectConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl1Sem8/Empl1Sem8/src/main/java/org/example/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/controllers/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/dto/TransferRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/repositories/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/repositories/mappers/AccountRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/java/com/example/services/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl2Sem8/sq-ch13-ex1/src/test/java/com/example/TransferServiceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/Empl3sem8Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/aspect/ExceptionLoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/aspect/LogException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/aspect/LoggedExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/aspect/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/service/ExampleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/java/ru/geekbrain/empl3sem8/service/MonitoredService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl3Sem8/empl3sem8/src/test/java/ru/geekbrain/empl3sem8/Empl3sem8ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/main/java/ru/geekbrain/empl6sem8interceptors/Empl6sem8interceptorsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/main/java/ru/geekbrain/empl6sem8interceptors/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/main/java/ru/geekbrain/empl6sem8interceptors/stuff/LoggingInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/main/java/ru/geekbrain/empl6sem8interceptors/stuff/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar8/Empl4Sem8/empl6sem8interceptors/src/test/java/ru/geekbrain/empl6sem8interceptors/Empl6sem8interceptorsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/aspect/TrackUserAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/model/UserActionAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +82,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -142,6 +193,7 @@
     "Spring Boot.HomeTaskApplication.executor": "Run",
     "Spring Boot.HomeWorksSeminar5Application.executor": "Run",
     "Spring Boot.Hw5springApplication.executor": "Run",
+    "Spring Boot.HwLesson4Application.executor": "Run",
     "Spring Boot.HwSeminar7Application.executor": "Run",
     "Spring Boot.Lekciya7Application.executor": "Run",
     "Spring Boot.Lesson4Task2Application.executor": "Run",
@@ -155,7 +207,7 @@
     "git-widget-placeholder": "springhw4",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot-master/src/main/java",
+    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot-master",
     "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -184,11 +236,11 @@
       <recent name="com.example.HomeTask.repository" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master" />
       <recent name="D:\Java\java_Project\CourseSpringBoot-master\src\main\java" />
       <recent name="D:\Java\java_Project\CourseSpringBoot-master\hw5spring\src\main\resources" />
       <recent name="D:\Java\java_Project\CourseSpringBoot-master\hw5spring\src\main\java\org\example\hw5spring" />
       <recent name="D:\Java\java_Project\CourseSpringBoot-master\homeWorksSeminar5\src\main\resources\templates" />
-      <recent name="D:\Java\java_Project\CourseSpringBoot-master\homeWorksSeminar5\src\main\java\org\example\homeworksseminar5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\java_Project\CourseSpringBoot-master\seminar5task1\seminar5Task2\src\main\resources" />
@@ -203,7 +255,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HwSeminar7Application">
+  <component name="RunManager" selected="Spring Boot.HwLesson4Application">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="demo" />
@@ -219,7 +271,7 @@
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Exam3Sem2" />
+      <module name="Empl1Sem8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -287,6 +339,13 @@
     <configuration name="Hw5springApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hw5spring" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.hw5spring.Hw5springApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HwLesson4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hw_lesson4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hw_lesson4.HwLesson4Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -362,9 +421,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Spring Boot.Lesson4Task2Application" />
         <item itemvalue="Spring Boot.HomeWorksSeminar5Application" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DemoApplication" />
       </list>
@@ -400,7 +459,9 @@
       <workItem from="1706366339802" duration="6996000" />
       <workItem from="1706551001830" duration="3065000" />
       <workItem from="1706722674849" duration="3125000" />
-      <workItem from="1706898884535" duration="1540000" />
+      <workItem from="1706898884535" duration="1917000" />
+      <workItem from="1707033475545" duration="3994000" />
+      <workItem from="1707042063436" duration="5734000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
       <option name="closed" value="true" />
@@ -466,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706899080232</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="семинар7 домашняя работа">
+      <option name="closed" value="true" />
+      <created>1706901201608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706901201608</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,7 +571,8 @@
     <MESSAGE value="семинар5" />
     <MESSAGE value="семинар5hw" />
     <MESSAGE value="семинар7hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="семинар7hw" />
+    <MESSAGE value="семинар7 домашняя работа" />
+    <option name="LAST_COMMIT_MESSAGE" value="семинар7 домашняя работа" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
