@@ -43,6 +43,7 @@ public class UserActionAspect {
             // Обработка ошибок записи в файл
             e.printStackTrace();
         }
+
     }
 
     private String employeeToString(Employee employee) {
