@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="семинар 2" />
+    <list default="true" id="13c8064d-07aa-45d4-8c67-cbf2d1d4a579" name="Changes" comment="Семинар 9">
+      <change afterPath="$PROJECT_DIR$/hw_lesson4/eureca/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/HwLesson4Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_lesson4/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/HwLesson4Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/aspect/TrackUserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/aspect/TrackUserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/model/UserActionAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/aspect/UserActionAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/model/UserActionLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/model/UserActionLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/java/com/example/hw_lesson4/servicec/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/resources/templates/new_employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/resources/templates/new_employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/main/resources/templates/update_employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/main/resources/templates/update_employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminar_2/siminar_4/hw_lesson4/src/test/java/com/example/hw_lesson4/HwLesson4ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw_lesson4/src/test/java/com/example/hw_lesson4/HwLesson4ApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Enum" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,11 +56,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/.." value="lesson3hw" />
+        <entry key="$PROJECT_DIR$" value="seminar5hw" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -41,12 +72,27 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1705259693" />
+                    <option name="branchName" value="HwSprinhg3" />
+                    <option name="lastUsedInstant" value="1705752169" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="seminar1" />
-                    <option name="lastUsedInstant" value="1705254541" />
+                    <option name="branchName" value="lesson3hw" />
+                    <option name="lastUsedInstant" value="1705752168" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$/.." />
+            </RecentBranchesForRepo>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="springhw4" />
+                    <option name="lastUsedInstant" value="1706426628" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1705259693" />
                   </RecentBranch>
                 </list>
               </option>
@@ -56,6 +102,13 @@
         </option>
       </RecentBranches>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Random.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/hw_lesson4/pom.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -75,63 +128,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DemoApplication.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.seminar_2.Main.executor": "Run",
-    "Application.seminar_2.seminar_2_1.config.Exam2Sem2.src.main.java.org.example.Main.executor": "Run",
-    "Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main (1).executor": "Run",
-    "Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main.executor": "Run",
-    "Application.seminar_2.seminar_2_1.config.Main.executor": "Run",
-    "Application.seminar_2.seminar_2_2.Main.executor": "Run",
-    "Application.test.Main.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Maven.CourseSpringBoot [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.DemoApplication (1).executor": "Run",
-    "Spring Boot.DemoApplication.executor": "Run",
-    "Spring Boot.HomeTaskApplication.executor": "Run",
-    "Spring Boot.Seminar3RestApplication.executor": "Run",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "lesson3hw",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Java/java_Project/CourseSpringBoot",
-    "mysql-explain.agentPath": "C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "database.query.execution",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.seminar_2_1.config.Exam2Sem2.src.main.java.org.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.seminar_2_1.config.Exam4Sem2.src.main.java.org.example.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.seminar_2_1.config.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminar_2.seminar_2_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.Main.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven.CourseSpringBoot [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hw_lesson4 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.hw_lesson4 [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ApiGatewayApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DemoApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.DemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurecaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HomeTaskApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HomeWorksSeminar5Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Hw5springApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HwLesson4Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.HwSeminar7Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Lekciya7Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Lesson4Task2Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Microservize11Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Microservize1Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Microservize2Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Seminar3RestApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Seminar5Task2Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Seminar5task1Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring4lessonApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringSecurityDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Task11Application.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Task3Application.executor&quot;: &quot;Run&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;springhw4&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/java_Project/CourseSpringBoot-master/hw_lesson4/src/main/resources/templates&quot;,
+    &quot;mysql-explain.agentPath&quot;: &quot;C:\\Users\\Dmitrii\\AppData\\Roaming\\JetBrains\\IdeaIC2023.3\\plugins\\mysql-explain-intellij-plugin\\lib\\mysql-explain-agent-1.1.1-with-dependencies.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql",
-      "h2"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;h2&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;H2&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.HomeTask.repository" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\java_Project\CourseSpringBoot\src\main\java\seminar_2\seminar_2_1\config" />
-      <recent name="D:\Java\java_Project\CourseSpringBoot\src\main\java\seminar_2\seminar_2_1\seminar_2_2" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\hw_lesson4\src\main\resources\templates" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\src\main\java\seminar_2\siminar_4\hw_lesson4\eureca\src\main\resources" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\Seminar9" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\hw_lesson4\src\main\resources" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\src\main\java" />
+      <recent name="D:\Java\java_Project\CourseSpringBoot-master\seminar5task1\seminar5Task2\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -143,7 +230,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.HomeTaskApplication">
+  <component name="RunManager" selected="Spring Boot.HwLesson4Application">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
       <module name="demo" />
@@ -157,22 +244,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Exam4Sem2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="Exam3Sem2" />
+      <module name="Empl1Sem8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -196,15 +270,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminar_2.seminar_2_1.config.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminar_2.seminar_2_1.config.Main" />
-      <module name="CourseSpringBoot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminar_2.seminar_2_1.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringBoot3.2.0" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="willydekeyser.Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -223,9 +298,98 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurecaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.eureca.EurecaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HomeTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="HomeTask" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.HomeTask.HomeTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWorksSeminar5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="homeWorksSeminar5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.homeworksseminar5.HomeWorksSeminar5Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.homeworksseminar5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw5springApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hw5spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.hw5spring.Hw5springApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HwLesson4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hw_lesson4" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hw_lesson4.HwLesson4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HwSeminar7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HwSeminar7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.hwseminar7.HwSeminar7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lekciya7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="lekciya7" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.lekciya7.Lekciya7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4Task2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lesson_4Task2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.lesson_4task2.Lesson4Task2Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson_4task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Microservize11Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservize-1-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.microservize11.Microservize11Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Microservize1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservize-1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microservize1.Microservize1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Microservize2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="microservize-2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.microservize2.Microservize2Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -237,13 +401,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Seminar5Task2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seminar5Task2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.seminar5task2.Seminar5Task2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar5task1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="seminar5task1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.seminar5task1.Seminar5task1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring4lessonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring_4lesson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring_4lesson.Spring4lessonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring_security_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring_security_demo.SpringSecurityDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task11Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Task_1_1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task_1_1.Task11Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="task3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task3.Task3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoApplication" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Spring Boot.Lesson4Task2Application" />
+        <item itemvalue="Spring Boot.HomeWorksSeminar5Application" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.seminar_2.seminar_2_1.config.Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +474,26 @@
       <workItem from="1705688379938" duration="1345000" />
       <workItem from="1705690187758" duration="5281000" />
       <workItem from="1705739996639" duration="164000" />
-      <workItem from="1705740487729" duration="11174000" />
+      <workItem from="1705740487729" duration="12925000" />
+      <workItem from="1705753441133" duration="2564000" />
+      <workItem from="1705756018704" duration="1795000" />
+      <workItem from="1705780617387" duration="3283000" />
+      <workItem from="1705826601485" duration="1714000" />
+      <workItem from="1706359458598" duration="2488000" />
+      <workItem from="1706366339802" duration="6996000" />
+      <workItem from="1706551001830" duration="3065000" />
+      <workItem from="1706722674849" duration="3125000" />
+      <workItem from="1706898884535" duration="1917000" />
+      <workItem from="1707033475545" duration="3994000" />
+      <workItem from="1707042063436" duration="6376000" />
+      <workItem from="1707051581601" duration="1110000" />
+      <workItem from="1707395313089" duration="3133000" />
+      <workItem from="1707403614896" duration="6403000" />
+      <workItem from="1707410535421" duration="1850000" />
+      <workItem from="1707501812574" duration="7176000" />
+      <workItem from="1707593367854" duration="1725000" />
+      <workItem from="1707763935302" duration="664000" />
+      <workItem from="1707848150024" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="Домашняя работа по 1 семинару">
       <option name="closed" value="true" />
@@ -294,7 +519,71 @@
       <option name="project" value="LOCAL" />
       <updated>1705259516957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Домашняя работа 4 семинар">
+      <option name="closed" value="true" />
+      <created>1706349701034</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706349701034</updated>
+    </task>
+    <task id="LOCAL-00005" summary="семинар5">
+      <option name="closed" value="true" />
+      <created>1706373100818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706373100818</updated>
+    </task>
+    <task id="LOCAL-00006" summary="семинар5hw">
+      <option name="closed" value="true" />
+      <created>1706426948131</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706426948131</updated>
+    </task>
+    <task id="LOCAL-00007" summary="семинар7hw">
+      <option name="closed" value="true" />
+      <created>1706899009452</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706899009452</updated>
+    </task>
+    <task id="LOCAL-00008" summary="семинар7hw">
+      <option name="closed" value="true" />
+      <created>1706899080232</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706899080232</updated>
+    </task>
+    <task id="LOCAL-00009" summary="семинар7 домашняя работа">
+      <option name="closed" value="true" />
+      <created>1706901201608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706901201608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="семинар8 домашняя работа">
+      <option name="closed" value="true" />
+      <created>1707050972186</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707050972186</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Семинар 9">
+      <option name="closed" value="true" />
+      <created>1707406970180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707406970181</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +594,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="springhw4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -314,7 +615,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Домашняя работа по 1 семинару" />
     <MESSAGE value="семинар 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="семинар 2" />
+    <MESSAGE value="Домашняя работа 4 семинар" />
+    <MESSAGE value="семинар5" />
+    <MESSAGE value="семинар5hw" />
+    <MESSAGE value="семинар7hw" />
+    <MESSAGE value="семинар7 домашняя работа" />
+    <MESSAGE value="семинар8 домашняя работа" />
+    <MESSAGE value="Семинар 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Семинар 9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
